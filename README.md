@@ -1,2 +1,2 @@
-# haley.m-github.io
+# haley-m.github.io
 Web Design
